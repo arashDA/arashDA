@@ -75,5 +75,5 @@ English (Professional Working Proficiency)
 
 Email: arashdadjoo3@gmail.com  
 Location: Mashhad, Iran  
-LinkedIn: [https://www.linkedin.com/in/arash-dadjoo-623886246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]  
-Portfolio: [https://arashdadjoo.ir]
+[LinkedIn](https://www.linkedin.com/in/arash-dadjoo-623886246)  
+[Portfolio](https://arashdadjoo.ir)
